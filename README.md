@@ -13,7 +13,7 @@ ReactXO is a simple web-based game developed in React that emulates the classic 
 
 ## Demo
 
-You can check out a live demo of ReactXO [here](https://chinmayroy.github.io/reactxo/).
+You can check out a live demo of ReactXO [here](https://reactxo-cr.vercel.app/).
 
 ## Features
 
