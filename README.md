@@ -13,7 +13,7 @@ ReactXO is a simple web-based game developed in React that emulates the classic 
 
 ## Demo
 
-You can check out a live demo of ReactXO [here](https://your-demo-link.com).
+You can check out a live demo of ReactXO [here](https://chinmayroy.github.io/reactxo/).
 
 ## Features
 
@@ -28,14 +28,9 @@ To run ReactXO locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine:
 
-    git clone https://github.com/your-username/reactxo.git
-
-
-
 2. Navigate to the project directory:
-
-cd reactxo
-
+    
+    cd reactxo
 
 
 3. Install the required dependencies using npm:
